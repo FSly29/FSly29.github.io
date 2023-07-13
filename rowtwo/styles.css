@@ -1,5 +1,6 @@
 .centertext {
     text-align: center;
+    margin: auto;
 }
 body {
     background: rgb(39, 39, 39);
