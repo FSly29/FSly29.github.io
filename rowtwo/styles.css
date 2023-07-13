@@ -35,3 +35,14 @@ body {
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
+.pagetop {
+    width: 750;
+    height: 75px;
+}
+.blue {
+    width: 200px;
+    height: 75px;
+    margin: 10px auto;
+    background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+    box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);
+  }
