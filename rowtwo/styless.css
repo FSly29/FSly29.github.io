@@ -1,0 +1,37 @@
+.centertext {
+    text-align: center;
+}
+body {
+    background: rgb(39, 39, 39);
+}
+.centerphoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+/* change color as needed below */
+.textshadow {
+    text-shadow: 3px 3px 3px rgb(255, 0, 0);
+}
+.bigtext {
+    font-size: 60px;
+    font-family: Sans-serif, tahoma, verdana;
+    background: linear-gradient( to right, #f32170,#ff6b08, #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.fancytext {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient( to right, #f32170,#ff6b08, #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.fancytext2 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #000000 10%,#ff2121 50%, #000000 90%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
