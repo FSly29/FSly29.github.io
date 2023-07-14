@@ -46,3 +46,10 @@ body {
     background: linear-gradient(#55680D, #71F53E, #116C31);
     box-shadow: 0 0 20px 0 #3B7E20CC;
 }
+.fancytextsmall {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient( to right, #f32170,#ff6b08, #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
