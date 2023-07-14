@@ -1,3 +1,6 @@
+.textright {
+  text-align: right;
+}
 .centertext {
     text-align: center;
     margin: auto;
@@ -52,4 +55,10 @@ body {
     background: linear-gradient( to right, #f32170,#ff6b08, #cf23cf, #eedd44);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+}
+.hrblue {
+    width:50%;
+    margin:0 auto;
+    border: 2px solid hsl(223, 90%, 60%);
+    border-radius: 5px;
 }
